@@ -1,2 +1,2 @@
 # dos-reboot-file
-Yeah, I wanted to make this.
+A simple file that reboots DOS made from assembly.
